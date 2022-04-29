@@ -1,6 +1,6 @@
 # Project: Node - Basic Website
 
-[Live Preview](https://jincrypt.github.io/TOP-cv-project/)
+[Live Preview](https://top-node-basic-website.jincrypt.repl.co/)
 
 ## Criteria:
 * Make a project directory and create the following files inside that directory:
@@ -16,5 +16,5 @@
     - localhost:8080/about should take users to about.html
     - localhost:8080/contact-me should take users to contact-me.html
     - 404.html should display any time the user tries to go to a page not listed above.
-    
+
 [Complete]
